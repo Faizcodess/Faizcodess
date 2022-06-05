@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Faizcodess
+- 👋 Hi, I’m Faizan
 - 👀 I’m interested in ML
 - 🌱 I’m currently learning Python
 
