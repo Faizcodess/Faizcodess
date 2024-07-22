@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Faizan
 - 👀 I’m interested in ML
-- 🌱 I’m currently learning Python
+- 🌱 I work at CloudFabrix
 
 <!---
 Faizcodess/Faizcodess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
